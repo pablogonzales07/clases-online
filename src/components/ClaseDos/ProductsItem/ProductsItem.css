@@ -1,0 +1,6 @@
+.cartItem {
+    border: thin solid grey;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,15 @@
+.productos {
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 1rem #00000025 inset;
+    display: flex;
+    gap: 1rem;
+
+}
+
+.carrito {
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 1rem #00000025 inset;
+    gap: 1rem;
+}
